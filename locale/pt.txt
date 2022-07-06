@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = New -  Cutters 
+tour.name = Cutters Unity
 
 ## Skin
 
