@@ -10,7 +10,7 @@ tour.name = New -  Cutters
 ## Skin
 
 ### Button
-Button_D842EA29_C999_13ED_41DE_AE785FEB21FA.label = Agende Seu Horário
+Button_D842EA29_C999_13ED_41DE_AE785FEB21FA.label = AGENDE SEU HORÁRIO
 
 ## Media
 
@@ -23,6 +23,7 @@ panorama_C16B36AA_C8FE_477A_41E5_ECFCD9052A58.label = 5
 panorama_C16B5812_C8FD_CB2A_41C2_8C99E258AA46.label = 04
 panorama_C16BD691_C8FE_4726_41D8_54D634A85CAC.label = 6.1
 panorama_C16BF519_C8FE_C526_41D9_685A3211F641.label = 6
+video_DDBC2F91_D360_0AB5_41E6_BE395016A919.label = IMG_2014 (1)
 video_DE940583_D14E_6179_41DC_88241E43B5F2.label = Cutters Unity - sem audio
 
 ## Action
@@ -30,9 +31,8 @@ video_DE940583_D14E_6179_41DC_88241E43B5F2.label = Cutters Unity - sem audio
 ### URL
 LinkBehaviour_812BC2BF_986C_B4CF_41CB_21F132D01308.source = https://www.instagram.com/cutters_unitybr/?utm_medium=copy_link
 LinkBehaviour_81A9D71D_986C_FDD1_41DF_9BC73738CD32.source = https://api.whatsapp.com/send?phone=5592984161534&text=Ol%C3%A1%2C%20Barbearia%20Cutters%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o.%20Pode%20me%20ajudar%3F
-LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/fFAxBNuTAbTtu28b9
+LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://g.co/kgs/DjCLmK
 LinkBehaviour_A4041739_B253_3064_41CC_435E82C9E860.source = https://www.instagram.com/cutters_unitybr/?utm_medium=copy_link
 LinkBehaviour_A4042739_B253_3064_41DD_BBEDF83EE6E0.source = https://api.whatsapp.com/send?phone=5592984161534&text=Ol%C3%A1%2C%20Barbearia%20Cutters%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o.%20Pode%20me%20ajudar%3F
-LinkBehaviour_A404F73A_B253_3064_41D2_22BBF85FD9AA.source = https://goo.gl/maps/fFAxBNuTAbTtu28b9
-LinkBehaviour_C194FCDE_D18C_0AF7_41CA_5281E5F26678.source = https://www.instagram.com/cutters_unitybr/?utm_medium=copy_link
+LinkBehaviour_A404F73A_B253_3064_41D2_22BBF85FD9AA.source = https://g.co/kgs/DjCLmK
 LinkBehaviour_DA6FFDFB_C9AB_106E_41DB_6880241A5778.source = https://api.whatsapp.com/send?phone=5592984161534&text=Ol%C3%A1%2C%20Barbearia%20Cutters%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o.%20Pode%20me%20ajudar%3F
